@@ -61,7 +61,7 @@
 ## Installing ArgoCD CLI
 ---------------------
 https://argo-cd.readthedocs.io/en/stable/cli_installation/
-Steps For Webinar
+
 -----------------
 Deploy ArgoCD using below url
 -----------------------------
