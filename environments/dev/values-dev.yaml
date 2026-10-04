@@ -1,0 +1,8 @@
+userMgmtDeploy:
+  imgVersion: stable-perl
+  containerPort: 80
+  replicas: 1
+
+userMgmtSvc:
+  svcPort: 80
+  targetPort: 80
