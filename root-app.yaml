@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/shivagande26/argocd-helm-promotion-proj.git'
+    repoURL: 'https://github.com/murthychiluka/argocd-helm-promotion-project.git'
     targetRevision: HEAD
     path: environments
     directory:
